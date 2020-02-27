@@ -1,4 +1,2 @@
-# _CV
 
-# SelfSIFT/SelfSift
   
